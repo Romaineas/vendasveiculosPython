@@ -224,7 +224,7 @@ _-- CRIANDO VIEWS
 
 --insert into FormaPagamento (descricao) values ('PIX');
 --insert into FormaPagamento (descricao) values ('Boleto');
---insert into FormaPagamento (descricao) values ('Cart„o');
+--insert into FormaPagamento (descricao) values ('Cart√£o');
 
 select * from Marca
 select * from Veiculo
